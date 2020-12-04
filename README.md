@@ -1,3 +1,5 @@
+# My CNN implementation for the Fashion Mnist dataset for educational purposes
+
 # Importing essential libraries
 ```python
 import pandas as pd
