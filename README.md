@@ -65,7 +65,7 @@ for i in np.arange(0, w_grid * l_grid ):
 ```
 
 
-![png](https://github.com/Sekomer/Fashion-Class-Classification-with-CNN/blob/master/photos/output_5_0.png)
+![png](https://github.com/Sekomer/CNN-Fashion/blob/main/photos/output_5_0.png)
 
 
 
@@ -170,7 +170,7 @@ plt.ylabel('CLASS')
 
 
 
-![png](https://github.com/Sekomer/Fashion-Class-Classification-with-CNN/blob/master/photos/output_15_1.png)
+![png](https://github.com/Sekomer/CNN-Fashion/blob/main/photos/output_15_1.png)
 
 
 
